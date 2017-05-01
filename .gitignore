@@ -1,0 +1,9 @@
+# Project 1 Generated Files
+project1/catkin_ws/build/
+project1/catkin_ws/devel/
+
+# Log Files
+*.log
+
+# Compiled
+*.pyc
